@@ -1,3 +1,5 @@
+# source https://dev.to/yagnadeepxo/the-beginners-guide-to-zk-snark-setting-up-your-first-proof-system-3le3
+
 # compile circom
 com:
 	circom circuit.circom --r1cs --wasm
